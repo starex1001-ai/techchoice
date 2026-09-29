@@ -42,5 +42,27 @@
       "노트북 구매",
       "노트북 사양"
     ]
+  },
+  {
+    "id": "sheet-where-to-spend-on-cpu-ram-ssd-budget-laptop",
+    "slug": "where-to-spend-on-cpu-ram-ssd-budget-laptop",
+    "category": "techchoice",
+    "status": "published",
+    "title": "100만원대 노트북 살 때 CPU·RAM·SSD 중 어디에 돈을 써야 할까",
+    "description": "100만원대 노트북을 고를 때 CPU·RAM·SSD 가운데 어디에 예산을 더 써야 할지는 사용목적에 따라 다르지만, 일반적인 업무용이라면 CPU를 필요 이상으로 높이기보다 RAM을 충분히 확보하고 SSD 용량을 실제 파일 사용량에 맞추는 것 이 만족도가 높은 경우가 많습니다. 웹브라우저",
+    "date": "2026-09-29",
+    "updated": "2026-09-29",
+    "minutes": 6,
+    "label": "가이드",
+    "intro": "",
+    "sections": [],
+    "body_html": "<p>100만원대 노트북을 고를 때 CPU·RAM·SSD 가운데 어디에 예산을 더 써야 할지는 사용목적에 따라 다르지만, 일반적인 업무용이라면 <strong>CPU를 필요 이상으로 높이기보다 RAM을 충분히 확보하고 SSD 용량을 실제 파일 사용량에 맞추는 것</strong>이 만족도가 높은 경우가 많습니다. 웹브라우저 탭과 Excel, PDF, 메신저, AI 도구를 동시에 사용하는 사람이라면 RAM 부족이 먼저 체감되기 쉽고, 사진과 동영상을 많이 저장한다면 SSD 용량이 중요합니다. CPU는 자신의 작업에 필요한 수준을 넘어서면 상위 모델로 올라가도 일상업무에서는 차이를 크게 느끼지 못할 수 있습니다.</p>\n<div style=\"text-align:center; margin:28px 0;\">\n    <img\n        src=\"https://images.pexels.com/photos/32583481/pexels-photo-32583481.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1600\"\n        alt=\"100만원대 노트북 살 때 CPU·RAM·SSD 중 어디에 돈을 써야 할까 관련 이미지 1\"\n        style=\"max-width:100%; height:auto;\"\n        loading=\"lazy\"\n    />\n</div>\n<h2>1. 일반 사무용이라면 RAM 부족을 피하는 것이 먼저</h2><p>브라우저 탭 여러 개와 Excel, 메신저, 화상회의 프로그램을 동시에 실행하면 메모리 사용량이 빠르게 늘어납니다. CPU가 충분히 빠르더라도 RAM이 부족하면 저장장치를 임시 메모리처럼 사용하면서 앱 전환이 느려질 수 있습니다. 특히 RAM이 메인보드에 고정돼 나중에 추가할 수 없는 노트북이라면 처음 구매할 때 여유 있게 선택하는 것이 중요합니다.</p><table><thead><tr><th>사용 목적</th><th>우선순위</th><th>이유</th></tr></thead><tbody><tr><td>문서·웹·메일</td><td>RAM → CPU → SSD</td><td>멀티태스킹 체감 큼</td></tr><tr><td>대용량 Excel</td><td>RAM·CPU</td><td>계산과 데이터 처리</td></tr><tr><td>사진·영상 저장</td><td>SSD</td><td>용량 확보 중요</td></tr><tr><td>영상편집</td><td>CPU·GPU·RAM</td><td>연산 성능 중요</td></tr><tr><td>게임</td><td>GPU 우선</td><td>그래픽 성능 영향 큼</td></tr></tbody></table><h2>2. CPU는 세대와 등급을 함께 봐야 함</h2><p>CPU 이름에 i5나 Ryzen 5처럼 익숙한 등급이 적혀 있다고 해서 모두 같은 성능은 아닙니다. 세대와 전력설계, 코어 구성에 따라 차이가 있으므로 단순 등급만 비교해서는 안 됩니다. 문서와 웹 사용이 대부분이라면 중급 CPU로도 충분한 경우가 많고 그 대신 RAM이나 디스플레이에 예산을 배분하는 것이 실사용에서 더 만족스러울 수 있습니다.</p><h2>3. RAM 16GB가 기준이 되는 이유</h2><p>간단한 작업에는 적은 RAM으로도 사용할 수 있지만 최근에는 브라우저와 협업툴, AI 서비스, 화상회의를 동시에 띄우는 경우가 많습니다. 업무용으로 몇 년 사용할 제품이라면 16GB를 기준으로 검토하는 것이 현실적입니다. 대용량 Excel, 개발환경, 사진·영상편집을 자주 한다면 32GB가 필요한지 추가로 확인하세요.</p><h2>4. SSD는 512GB와 1TB 사이에서 사용습관을 확인</h2><p>문서와 클라우드 위주로 사용하는 사람이라면 512GB도 충분한 경우가 많습니다. 하지만 사진과 영상, 대용량 프로그램, 게임을 노트북 내부에 저장한다면 1TB가 관리하기 편합니다. 외장SSD를 항상 사용할 수 있다면 처음부터 큰 SSD에 모든 예산을 쓰지 않아도 됩니다. 반대로 SSD 추가 슬롯이 없고 업그레이드가 어려운 제품이라면 초기 용량 선택이 더 중요합니다.</p>\n<div style=\"text-align:center; margin:28px 0;\">\n    <img\n        src=\"https://images.pexels.com/photos/7987845/pexels-photo-7987845.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1600\"\n        alt=\"100만원대 노트북 살 때 CPU·RAM·SSD 중 어디에 돈을 써야 할까 관련 이미지 2\"\n        style=\"max-width:100%; height:auto;\"\n        loading=\"lazy\"\n    />\n</div>\n<h2>5. CPU 한 단계보다 좋은 화면이 더 체감될 수도 있음</h2><p>100만원대 예산에서는 CPU를 한 단계 높이는 대신 화면 품질이나 RAM, SSD가 낮아지는 구성도 있습니다. 문서를 하루 종일 보는 사람이라면 밝기와 해상도, 패널 품질이 매일 체감됩니다. 동일 가격에서 CPU 성능 차이는 작지만 화면과 키보드 품질 차이가 크다면 후자를 선택하는 것이 더 만족스러울 수 있습니다.</p><h2>6. 업그레이드 가능한 부품과 불가능한 부품을 구분</h2><p>SSD는 구매 후 교체하거나 추가할 수 있는 모델이 많지만 RAM은 온보드 방식으로 고정되는 노트북이 늘었습니다. 따라서 업그레이드가 불가능한 RAM은 처음부터 충분히 선택하고 SSD는 확장 가능 여부를 확인해 예산을 조정할 수 있습니다. 제품 분해나 부품 교체가 보증조건에 영향을 주는지는 제조사 정책도 확인하세요.</p><h2>7. 100만원대에서는 균형 잡힌 구성이 중요</h2><p>특정 부품 하나만 최고사양으로 올리면 다른 부분에서 타협이 커질 수 있습니다. 일반 업무용이라면 중급 CPU와 충분한 RAM, 적당한 SSD, 괜찮은 디스플레이를 조합한 균형형 구성이 실용적입니다. 영상편집이나 게임처럼 특정 작업이 명확하다면 그때 CPU나 GPU에 예산을 집중하는 것이 좋습니다.</p><h3>예산 배분 체크리스트</h3><ul><li>1. 가장 자주 사용하는 프로그램을 적는다.</li><li>2. RAM 업그레이드 가능 여부를 확인한다.</li><li>3. 일반 업무라면 16GB 이상을 우선 검토한다.</li><li>4. 현재 저장공간 사용량을 확인한다.</li><li>5. CPU는 필요 작업에 충분한 수준인지 본다.</li><li>6. 화면과 키보드 품질도 함께 비교한다.</li><li>7. 게임이나 영상편집이면 GPU를 별도로 우선한다.</li></ul><h2>FAQ</h2><h3>CPU가 좋은 노트북이 무조건 오래 쓸 수 있나요?</h3><p>CPU뿐 아니라 RAM 용량과 저장공간, 냉각, 배터리 등 전체 구성이 중요합니다. RAM이 부족하면 높은 CPU 성능을 충분히 활용하기 어려울 수 있습니다.</p>\n<div style=\"text-align:center; margin:28px 0;\">\n    <img\n        src=\"https://images.pexels.com/photos/10357017/pexels-photo-10357017.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1600\"\n        alt=\"100만원대 노트북 살 때 CPU·RAM·SSD 중 어디에 돈을 써야 할까 관련 이미지 3\"\n        style=\"max-width:100%; height:auto;\"\n        loading=\"lazy\"\n    />\n</div>\n<h3>16GB RAM과 1TB SSD 중 하나만 선택해야 하면 무엇이 좋나요?</h3><p>일반 업무에서는 RAM을 나중에 늘릴 수 없는 제품이 많기 때문에 RAM을 우선하는 것이 유리한 경우가 많습니다. 저장공간은 외장SSD나 클라우드로 보완할 수 있습니다.</p><h3>문서작업만 하는데 고성능 CPU가 필요한가요?</h3><p>대부분의 일반 문서와 웹 업무에는 중급 CPU도 충분할 수 있습니다. 대신 RAM과 화면 품질을 함께 보는 것이 좋습니다.</p>\n<div style=\"text-align:center; margin:28px 0;\">\n    <img\n        src=\"https://images.pexels.com/photos/17642362/pexels-photo-17642362.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1600\"\n        alt=\"100만원대 노트북 살 때 CPU·RAM·SSD 중 어디에 돈을 써야 할까 관련 이미지 4\"\n        style=\"max-width:100%; height:auto;\"\n        loading=\"lazy\"\n    />\n</div>\n<h2>마지막 핵심 정리</h2><p>100만원대 노트북에서는 <strong>일반 업무라면 RAM을 먼저 확보하고, CPU는 필요한 수준까지, SSD는 사용량과 확장성에 맞춰</strong> 선택하는 것이 좋습니다. 하나의 사양만 최고로 올리기보다 CPU·RAM·SSD·화면의 균형을 맞추는 것이 장기간 사용 만족도를 높이는 방법입니다.</p>",
+    "tags": [
+      "100만원대 노트북",
+      "노트북 CPU",
+      "노트북 RAM",
+      "노트북 SSD",
+      "노트북 구매"
+    ]
   }
 ]
